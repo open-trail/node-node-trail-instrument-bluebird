@@ -2,7 +2,7 @@
   "name": "trail-instrument-bluebird",
   "description": "Instrument bluebird for trail",
   "repository": "open-trail/node-trail-instrument-bluebird",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/index.js",
   "keywords": [],
   "files": [
